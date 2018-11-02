@@ -1,0 +1,16 @@
+.name {
+    float: left;
+    border: solid grey;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+#jumbotron {
+    margin-top: 40px;
+}
+
+#topNav {
+    margin-bottom: 12px;
+    background: grey;
+    padding-bottom: 150px;
+}
